@@ -27,7 +27,7 @@ def twins(a, b)
     end
   end
 
-  return result
+  result
 end
 
 
