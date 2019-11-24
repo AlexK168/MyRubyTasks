@@ -4,7 +4,7 @@ class Array
         self.each do |item|
             histogram[item] += 1
         end
-        return histogram
+        histogram
     end    
 end
 
