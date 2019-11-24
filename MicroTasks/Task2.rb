@@ -16,7 +16,7 @@ class Hash
                 new_hash.safe_add(value, key)
             end
         end
-        return new_hash
+        new_hash
     end
 end
 
